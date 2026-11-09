@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "errorMessage": [
+    "Client id is required",
+    "Product id is required",
+    "Quantity is required"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "status": 400,
+  "errorMessage": [
+    "Area phone code is required",
+    "Phone number is required"
+  ]
+}

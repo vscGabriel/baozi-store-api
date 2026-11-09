@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "errorMessage": [
+    "Availability is required",
+    "Price is required",
+    "Product name is required"
+  ]
+}

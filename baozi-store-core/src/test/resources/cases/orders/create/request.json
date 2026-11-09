@@ -1,0 +1,5 @@
+{
+  "clientId": "${clientId}",
+  "productId": "${productId}",
+  "quantity": 6
+}

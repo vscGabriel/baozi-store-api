@@ -1,0 +1,9 @@
+{
+  "status": 400,
+  "errorMessage": [
+    "Area phone code is required",
+    "Client name is required",
+    "Document number is required",
+    "Phone number is required"
+  ]
+}
